@@ -40,4 +40,5 @@
 *"Seeking to be exceptional and extraordinary in every project."*
 
 
-Automação de Check de Compliance em Python
+./scripts/web_compliance_check.py
+Script em Python que automatiza a verificação de protocolos de segurança e status de servidores, focado em auditorias rápidas de GRC.

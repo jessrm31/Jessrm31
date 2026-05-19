@@ -1,7 +1,7 @@
 ## 👋 | Hi, I'm Jéssica Manquillo 👋
 
-### 🛡️ Cyber Defense & GRC Specialist| Threat Intelligence and Digital Forensics| AI agent governance & AI Risk| EN|PT|ES|FR
-### 🇧🇷 Especialista em Defesa Cibernética|GRC com Foco em IA e Agentes|ISO 27001 e 42001|
+### 🛡️ Cyber Defense & GRC Specialist | Threat Intelligence and Digital Forensics | AI agent governance & AI Risk | EN|PT|ES|FR
+### 🇧🇷 Especialista em Defesa Cibernética | GRC com Foco em IA e Agentes | ISO 27001 e 42001 |
 
 ---
 
@@ -17,7 +17,7 @@
 
 * 🛡️ **Specialties:** GRC, Compliance, Digital Forensics & Strategy.
 * 💻 **Tech Stack:** Python, JavaScript, Security Frameworks (NIST, ISO 27001 , ISO 42001).
-* 🎯 **Goal:** To become an exceptional professional in the Cybersecurity landscape.
+* 🎯 **Goal:** To become an exceptional professional in the Cybersecurity landscape everyday.
 
 ---
 
@@ -32,7 +32,8 @@
 ## 📫 Vamos nos conectar? | Let's connect!
 
 * **LinkedIn:** https://www.linkedin.com/in/jéssica-manquillo
-* 
+
+
 ---
 *"Seeking to be exceptional and extraordinary in every project."*
 
